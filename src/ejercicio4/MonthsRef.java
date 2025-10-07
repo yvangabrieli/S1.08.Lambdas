@@ -1,9 +1,8 @@
-package ejercicio3;
-
-import java.util.ArrayList;
+package ejercicio4;
 import java.util.List;
+import java.util.ArrayList;
 
-public class Months {
+public class MonthsRef {
     public static void main(String[] args) {
         List<String> months = new ArrayList<>();
         months.add("January");
@@ -18,6 +17,6 @@ public class Months {
         months.add("October");
         months.add("November");
         months.add("December");
-        months.forEach( (s) -> System.out.println(s));
+        months.forEach(System.out::println);
     }
 }
