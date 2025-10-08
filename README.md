@@ -69,5 +69,4 @@ Additional exercises to continue practicing advanced use of **Lambdas and Stream
 ```bash
 git clone https://github.com/yvangabrieli/S1.08.Lambdas
 ```
-- Create separate **branches** for new features or bug fixes.  
-- Submit **pull requests** that are well-documented and easy to review.  
+
